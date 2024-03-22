@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{EA5BC64B-4481-483F-BDF3-F200EA6851EE}|https">
+﻿<Properties StartupConfiguration="{EA5BC64B-4481-483F-BDF3-F200EA6851EE}|https" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MvcMovie FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
