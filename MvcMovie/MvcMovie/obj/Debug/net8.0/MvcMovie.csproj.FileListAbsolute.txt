@@ -28,3 +28,4 @@
 /Users/brycecicero/Projects/MvcMovie/MvcMovie/MvcMovie/obj/Debug/net8.0/MvcMovie.pdb
 /Users/brycecicero/Projects/MvcMovie/MvcMovie/MvcMovie/obj/Debug/net8.0/MvcMovie.genruntimeconfig.cache
 /Users/brycecicero/Projects/MvcMovie/MvcMovie/MvcMovie/obj/Debug/net8.0/ref/MvcMovie.dll
+/Users/brycecicero/Projects/MvcMovie/MvcMovie/MvcMovie/obj/Debug/net8.0/MvcMovie.sourcelink.json
